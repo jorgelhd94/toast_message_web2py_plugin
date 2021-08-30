@@ -26,10 +26,10 @@ After installing the plugin in the web2py plugin manager it is necessary to add 
 
 2. To launch the message, include the next code in a controller.
 
-`plugin_toastr_message_config('success', 'All good', ajax=False)
+`plugin_toastr_message_config('success', 'All good', ajax=False)`
 
 Or
 
-`plugin_toastr_message_config('error', 'Oops!! An error has occurred!', ajax=False)
+`plugin_toastr_message_config('error', 'Oops!! An error has occurred!', ajax=False)`
 
   
