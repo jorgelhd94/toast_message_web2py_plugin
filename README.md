@@ -26,7 +26,7 @@ This is a Web2py plugin for manage message in the view using the toast library. 
  
 After installing the plugin in the web2py plugin manager it is necessary to add a few lines of code in the main layout.
 
-1. Add the next code to view/layout.html (the main layout) into the body tag:
+1. Add the next code to view/layout.html (the main layout) into the body tag (preferably last):
 
 + `{{=plugin_toastr_message()}}`  
 + ``<div id="plugin-toastr-message">``  
