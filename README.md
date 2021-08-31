@@ -1,6 +1,6 @@
 # Web2py Toast Message Plugin
 
-This is a Web2py plugin for manage message in the view using the toast library. For install this plugin is necessary use the plugin manager of the web2py framework.
+This is a Web2py plugin for manage messages in the views using the toast library. To install the plugin it is necessary to use the web2py plugin manager.
 
 ## Requirements
 
