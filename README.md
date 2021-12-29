@@ -29,8 +29,7 @@ After installing the plugin in the web2py plugin manager it is necessary to add 
 1. Add the next code to view/layout.html (the main layout) into the body tag (preferably last):
 
 + `{{=plugin_toastr_message()}}`  
-+ ``<div id="plugin-toastr-message">``  
-+ ``</div>``
++ ``<div id="plugin-toastr-message"></div>``
 
 2. To launch the message, include the next code in a controller.
 
